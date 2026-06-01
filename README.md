@@ -1,5 +1,7 @@
 # CFD, PyFluent, and AI-assisted simulation workflows
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 I work on practical CFD workflows around Ansys Fluent, PyFluent, and agent-assisted simulation tooling.
 
 My current focus is making simulation setup, solver automation, convergence checks, and validation steps more explicit and reproducible.
@@ -30,3 +32,21 @@ A Codex skill for Ansys Fluent and PyFluent CFD workflows. It provides a compact
 - Fluent/PyFluent automation
 - Human-in-the-loop agent workflows for engineering analysis
 
+## Project Star History
+
+<a href="https://www.star-history.com/#cavoiie/fluent-cfd-skill&Date">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://api.star-history.com/svg?repos=cavoiie/fluent-cfd-skill&type=Date&theme=dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://api.star-history.com/svg?repos=cavoiie/fluent-cfd-skill&type=Date"
+    />
+    <img
+      alt="Star History Chart"
+      src="https://api.star-history.com/svg?repos=cavoiie/fluent-cfd-skill&type=Date"
+    />
+  </picture>
+</a>
