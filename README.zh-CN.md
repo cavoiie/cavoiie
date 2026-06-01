@@ -1,6 +1,6 @@
 # CFD、PyFluent 与 AI 辅助仿真工作流
 
-[English](README.md) | [简体中文](README.zh-CN.md)
+[English](README.md) | 简体中文
 
 我关注 Ansys Fluent、PyFluent 和 agent 辅助仿真工具链中的实用 CFD 工作流。
 
@@ -34,5 +34,4 @@
 
 ## Project Stars
 
-- 当前 stars：[GitHub stargazers](https://github.com/cavoiie/fluent-cfd-skill/stargazers)
-- 趋势页面：[Star History](https://www.star-history.com/#cavoiie/fluent-cfd-skill&Date)
+![Fluent CFD Skill 本地 Star 统计曲线](assets/fluent-cfd-skill-star-history.svg)
