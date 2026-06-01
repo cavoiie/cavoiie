@@ -32,21 +32,7 @@
 - Fluent/PyFluent 自动化
 - 面向工程分析的人机协同 agent 工作流
 
-## Project Star History
+## Project Stars
 
-<a href="https://www.star-history.com/#cavoiie/fluent-cfd-skill&Date">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://api.star-history.com/svg?repos=cavoiie/fluent-cfd-skill&type=Date&theme=dark"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://api.star-history.com/svg?repos=cavoiie/fluent-cfd-skill&type=Date"
-    />
-    <img
-      alt="Star History Chart"
-      src="https://api.star-history.com/svg?repos=cavoiie/fluent-cfd-skill&type=Date"
-    />
-  </picture>
-</a>
+- 当前 stars：[GitHub stargazers](https://github.com/cavoiie/fluent-cfd-skill/stargazers)
+- 趋势页面：[Star History](https://www.star-history.com/#cavoiie/fluent-cfd-skill&Date)
